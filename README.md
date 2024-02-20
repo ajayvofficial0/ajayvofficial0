@@ -1,9 +1,6 @@
 Hi there!
 👋 I'm Ajay, 
-  an up-and-coming front-end web developer with a passion for crafting beautiful and user-friendly interfaces. 
-Currently, I'm delving into the intricacies of Java and JavaScript, honing my skills in HTML and CSS along the way. 🌱
-
-I'm excited about the possibilities that AI offers and eager to collaborate on projects that utilize its potential. 👯
+ As an aspiring front-end web developer, I'm driven by my passion for creating captivating and intuitive user experiences. Currently, I'm immersing myself in the intricacies and expertise of JavaScript, HTML and CSS. 🌱
 
 Outside of coding, I'm a car and gadget enthusiast. 🚗💻 Whether it's discussing the latest automotive innovations or geeking out over the newest tech gadgets, I'm always up for a chat.
 Feel free to ask me anything about cars and gadgets—I love sharing my knowledge and exploring new advancements in these fields. 💬
