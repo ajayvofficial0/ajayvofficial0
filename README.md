@@ -37,6 +37,17 @@ Outside of coding, I'm a car and gadget enthusiast. 🚗💻 Whether it's discus
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="40" alt="mysql logo"  />
   <img width="12" />
+ 
+
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" height="40" alt="numpy logo"  />
+  <img width="12" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILS49Ov4w5dULnc8ZD-WTNdh1IjBsHX8wjA" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/379109?s=280&v=4" height="40" alt="arduino"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" height="40" alt="open cv"  />
+  <img width="12" />
+  
 </div>
 
 ###
