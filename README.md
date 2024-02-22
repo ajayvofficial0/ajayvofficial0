@@ -4,7 +4,7 @@
 
 <p align="left">I'm Ajay, As an aspiring front-end web developer, I'm driven by my passion for creating captivating and intuitive user experiences. 
 
-Outside of coding, I'm a car and gadget enthusiast. 🚗💻 Whether it's discussing the latest automotive innovations or geeking out over the newest tech gadgets, I'm always up for a chat. Feel free to ask me anything about cars and gadgets—I love sharing my knowledge and exploring new advancements in these fields. 💬
+Outside of coding, I'm a car and gadget enthusiast. Whether it's discussing the latest automotive innovations or geeking out over the newest tech gadgets, I'm always up for a chat. Feel free to ask me anything about cars and gadgets—I love sharing my knowledge and exploring new advancements in these fields. 💬
 </p>
 
 ###
@@ -13,7 +13,7 @@ Outside of coding, I'm a car and gadget enthusiast. 🚗💻 Whether it's discus
 
 ###
 
-<p align="left">✨ Creating bugs since definitely not from birth lol <br>📚 I'm currently immersing myself in the intricacies and expertise of JavaScript, HTML and CSS. 🌱<br>🎯 Goals: Do best with what i learn<br>🎲 One thing to know about me: I'm friendly and approachable. Don't hesitate to reach out 🤗
+<p align="left">✨ Creating bugs since before I even knew what bugs were! <br>📚 I'm currently immersing myself in the intricacies and expertise of JavaScript, HTML and CSS. 🌱<br>🎯 Motto: Learn, adapt, conquer!" <br>🎲 One thing to know about me: I'm friendly and approachable. Don't hesitate to reach out 🤗
 </p>
 <p align="left">Let's connect and create something amazing together! ⚡
 </p>
